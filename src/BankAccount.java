@@ -3,6 +3,7 @@ public class BankAccount {
 
 
     public double getAmount(){
+        System.out.println("Amount");
         return amount;
     }
 
@@ -13,4 +14,6 @@ public class BankAccount {
     public void withDraw(int sum){
 
     }
+
+
 }
