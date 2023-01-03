@@ -3,8 +3,7 @@ public class BankAccount {
 
 
     public double getAmount(){
-        System.out.println("Amount");
-        System.out.println("123");
+        System.out.println("Amount123");
         return amount;
     }
 
