@@ -4,6 +4,7 @@ public class BankAccount {
 
     public double getAmount(){
         System.out.println("Amount");
+        System.out.println("123");
         return amount;
     }
 
